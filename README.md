@@ -9,3 +9,4 @@
  - add shortcuts every day
  - add screenshots
  - add plugin list
+ - add Gifs for complicated shortcuts
