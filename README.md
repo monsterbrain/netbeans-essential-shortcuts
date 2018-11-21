@@ -4,6 +4,11 @@
   
   ### Netbeans IDE version : 8.2
   
+## Useful Shortcuts
+ - **Alt** + **Shift** + **O**
+ 
+ ![alt openfilebysearch][open-file-search]
+  
 ## Plugins
 
  ### Quick Opener - Quicly Open the selected file in Explorer
@@ -26,3 +31,4 @@
  
  [quick-open-1]: https://github.com/monsterbrain/netbeans-essential-shortcuts/blob/master/img/quick_opener_1.png "Quick Opener Plugin 1"
  [quick-open-2]: https://github.com/monsterbrain/netbeans-essential-shortcuts/blob/master/img/quick_opener_2.png "Quick Opener Plugin 2"
+ [open-file-search]: https://github.com/monsterbrain/netbeans-essential-shortcuts/blob/master/img/open_file_by_name_c.png "Open File by search"
